@@ -1,4 +1,4 @@
-# cyber-labs
+# Wazuh
 # Laboratorio SOC – Implementación de Wazuh
 
 ## 📌 Descripción
