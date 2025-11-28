@@ -5,23 +5,28 @@
 Este laboratorio presenta la implementación del SIEM de Wazuh y su despliegue, para mostrar de forma sencilla como recopila los logs de las actividades
 
 ## 🎯 Objetivo
-- Implementación de un SIEM.
-- Aplicar configuración y despliegue de Wazuh
-- Demostrar la recepción de logs del SIEM Wazuh.
+- Entender arquitectura Wazuh.
+- Configurar agentes y políticas.
+- Analizar alertas reales.
+- Crear reglas y decoders.
   
 ## 🛠️ Herramientas utilizadas
-- VirtualBOx
-- Wazuh v4.12.0 OVA
-- VM Windows 11
+- Wazuh Manager
+- Wazuh Agent (Windows/Linux)
+- Sysmon
+- ELK Stack
 
 ## 🔎 Pasos principales
-1. Instalación y configuración de Wazuh OVA en VirtualBox.
-2. Importación de logs de autenticación de Windows.
-3. Creación de reglas de búsqueda para detectar intentos de login fallidos.
-4. Configuración de alertas ante intentos repetidos.
+1. Instalar y configurar Wazuh Manager.
+2. Agregar agentes y validar conectividad.
+3. Analizar alertas generadas por Sysmon.
+4. Crear tus propias reglas y decoders.
+5. Documentar hallazgos.
 
 ## 📷 Evidencias
-![Dashboard Splunk](imagenes/dashboard.png)
+Capturas de dashboard
+Decoders creados
+Alertas detectadas
 
 ## ✅ Conclusiones
 Con este laboratorio logré detectar intentos de fuerza bruta correlacionando eventos de login en Splunk. 
