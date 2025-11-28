@@ -1,5 +1,5 @@
 # Wazuh
-# Laboratorio SOC – Implementación de Wazuh
+# Mini SOC con Wazuh
 
 ## 📌 Descripción
 Este laboratorio presenta la implementación del SIEM de Wazuh y su despliegue, para mostrar de forma sencilla como recopila los logs de las actividades
