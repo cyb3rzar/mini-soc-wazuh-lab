@@ -1,5 +1,5 @@
-Comandos de instalación
+## Installation commands ##
+ffff
 
-Problemas comunes
-
-Capturas (opcional)
+## Common issues ##
+fffff
