@@ -6,7 +6,7 @@
 |  Windows 11    |  192.168.0.3  |   Agent      |
 |  Linux Ubuntu  |  192.168.0.14 |   Agent      |
 
-
+<br>
 
 ## Lab Architecture ##
 
